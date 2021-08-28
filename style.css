@@ -90,6 +90,12 @@ h2{
 	height: 58px;
 	border-radius: 50px;
 }
+h3{
+	z-index: 1;
+	font-family: 'Cairo', sans-serif;
+	float: right;
+	font-size: 15px;
+}
 @media screen and (max-width: 500px) {
 	section{
 		width: 100%;
