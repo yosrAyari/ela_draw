@@ -90,13 +90,13 @@ h2{
 	height: 58px;
 	border-radius: 50px;
 }
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 900px) {
 	section{
 		width: 100%;
 		left: 0;
 	}
 	#article2{
-		top: 17%;	
+		top: 15%;	
 	}
 	#icon{
 		width: 40%;
