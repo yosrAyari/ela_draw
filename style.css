@@ -28,6 +28,13 @@ section{
 	width: 100%;
 	text-align: center;
 }
+#article3{
+	z-index: 2;
+	position: absolute;
+	width: 100%;
+	top:130% ;
+	text-align: center;
+}
 #icon{
 	filter: drop-shadow(0 0 50px #dae3e0);
 	width: 27.5%;
@@ -94,16 +101,20 @@ h3{
 	z-index: 1;
 	font-family: 'Cairo', sans-serif;
 	font-size: 15px;
-	float:right;
-	margin-right:10px;
 }
 @media screen and (max-width: 500px) {
 	section{
 		width: 100%;
 		left: 0;
 	}
+	#article1{
+		height: 105%;
+	}
 	#article2{
 		top: 15%;	
+	}
+	#article3{
+		top:103% ;
 	}
 	#icon{
 		width: 40%;
