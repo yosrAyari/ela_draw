@@ -94,8 +94,8 @@ h3{
 	z-index: 1;
 	font-family: 'Cairo', sans-serif;
 	font-size: 15px;
-	position: absolute;
-	right:0;
+	float:right;
+	margin-right:10px;
 }
 @media screen and (max-width: 500px) {
 	section{
