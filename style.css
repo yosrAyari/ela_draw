@@ -96,7 +96,7 @@ h3{
 	float: right;
 	font-size: 15px;
 	padding-bottom: 2px;
-	padding-right: 10;
+	padding-right: 10px;
 }
 @media screen and (max-width: 500px) {
 	section{
